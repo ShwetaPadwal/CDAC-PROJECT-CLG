@@ -1,0 +1,43 @@
+/* General Reset */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+a,
+input,
+button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header Styles */
+header {
+  background: #f5f5f5;
+  padding: 15px 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+header nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 500;
+}
+
+header nav a:hover {
+  color: #0056b3;
+}
+
+.navbar .nav-item {
+  padding: 10px;
+}
+
+.nav-item:hover {
+  background-color: #e0f7fa;
+  transform: translateY(-2px);
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+/* Styles for Privacy Policy content (if needed) */
+.privacy-policy-container {
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Make sure the title is visible */
+.privacy-policy-container h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.privacy-policy-container section {
+  margin-bottom: 10px;
+}
+
+.privacy-policy-container h2 {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.privacy-policy-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
